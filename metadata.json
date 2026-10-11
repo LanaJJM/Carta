@@ -1,0 +1,6 @@
+{
+  "name": "Festeja - Cartas Virtuales & Sorpresas Mágicas",
+  "description": "Crea cartas virtuales interactivas personalizadas con sorpresas animadas, tartas con velas para soplar, regalos sorpresa, tarjetas rasca y gana y confeti para cumpleaños y momentos especiales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
